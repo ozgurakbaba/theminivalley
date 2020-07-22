@@ -25,7 +25,7 @@
 	// Slideshow Background.
 		(function() {
 
-			// Settings.
+			// Settings.git 
 				var settings = {
 
 					// Images (in the format of 'url': 'alignment').
